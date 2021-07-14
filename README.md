@@ -6,7 +6,7 @@ To play this game clone the repository using the command
 
 `git clone https://github.com/znjs/How-well-do-you-know-me.git`
 
-After cloning run the folloeing commands to play the game
+After cloning run the following commands to play the game
 
 `nmp install`  
 
