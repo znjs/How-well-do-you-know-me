@@ -4,7 +4,7 @@
   "description": "Cli app",
   "main": "index.js",
   "scripts": {
-    "test": "node ./index.js"
+    "run-game": "node ./index.js"
   },
   "author": "",
   "license": "ISC",
