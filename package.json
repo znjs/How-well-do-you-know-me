@@ -1,0 +1,11 @@
+{
+  "name": "how-well-do-you-know-me",
+  "version": "1.0.0",
+  "description": "Cli app",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
